@@ -2,8 +2,7 @@
 
 1. HOW TO USE OUR LOGO
  
-![1  Logo](https://user-images.githubusercontent.com/38475134/144486742-4e2b8e9c-22cc-4ebf-ace3-581a0bf79b60.png)
-
+![1  Logo](https://user-images.githubusercontent.com/38475134/144506964-660d0f86-0114-4de0-ae43-e34ddaae0dec.png)
 
 2. COLOR PALLET 
 
