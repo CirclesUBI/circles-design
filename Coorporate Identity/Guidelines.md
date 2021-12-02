@@ -6,8 +6,7 @@
 
 2. COLOR PALLET 
 
-![2 Color Pallet](https://user-images.githubusercontent.com/38475134/144489648-86c10621-4a88-4ed7-8400-0a47ff8687dc.png)
-
+![2 Color Pallet(1)](https://user-images.githubusercontent.com/38475134/144513380-2505115a-b0ba-4447-92ff-eff49825c5bb.png)
 
 **Here you can find our editable guidelines:**
 https://www.figma.com/file/ydjlecNaPxuTizfp5JTnm7/Circles-Open-Repocitory_CI?node-id=0%3A1
